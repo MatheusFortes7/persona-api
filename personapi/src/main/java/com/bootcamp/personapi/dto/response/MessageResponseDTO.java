@@ -1,4 +1,4 @@
-package com.bootcamp.personapi.dto;
+package com.bootcamp.personapi.dto.response;
 
 import lombok.Builder;
 import lombok.Data;
